@@ -1,2 +1,2 @@
-# yuri-library
-存放我认为有价值的书籍
+# myfirst-repo
+记录第一次使用Github Repository的经历
